@@ -1,0 +1,529 @@
+@media (max-width: 1440px){
+    #listen .listen-topic {
+        padding-top: 180px;
+    }
+    #listen .listen-cards{
+        padding-bottom: 100px;
+    }
+    #graphic{
+        padding-top: 180px;
+    }
+    #speed-up{
+        padding-top: 160px;
+    }
+    #enjoy{
+        padding-top: 110px;
+    }
+    #project-team{
+        padding-top: 160px;
+    }
+    #speed-up .every-card .logo svg{
+        width: 86px;
+        height: 86px;
+    }
+    #project-team .content .button svg{
+        width: 42px;
+        line-height: 40px;
+    }
+    #camin .camin-content .search-camin button{
+        padding: 1px 24px 1px 24px;
+    }
+}
+
+@media (max-width: 1024px) {
+    header button{
+        padding: 5px 10px 5px 10px;
+    }
+    header button svg {
+        width: 12px;
+        height: 18px;
+    }
+    .navbar .logo svg{
+        width: 100px;
+        height: 32px;
+    }
+    header .navbar .nav-content ul li{
+        margin-right: 40px;
+    }
+    #listen .listen-topic{
+        padding-top: 120px;
+    }
+    #listen .listen-topic button svg{
+        width: 28px;
+        height: 26px;
+    }
+    #listen .listen-topic button{
+        padding: 4px 26px 4px 26px;
+    }
+    .listen-cards .listen-card .card-content svg{
+        width: 48px;
+        height: 52px;
+    }
+    #listen .listen-cards{
+        padding-bottom: 60px;
+    }
+    #listen .listen-cards .listen-card{
+        padding: 22px 32px 12px 32px;
+    }
+    #why-love .topic h2{
+        padding-bottom: 50px;
+    }
+    #why-love .profil .exit{
+
+    }
+    #graphic{
+        padding-top: 120px;
+    }
+    .first-swiper .swiper-scrollbar{
+        height: 5px;
+    }
+    #speed-up .topic h2{
+        padding-bottom: 80px;
+    }
+    #speed-up .every-card .logo svg{
+        width: 60px;
+        height: 60px;
+    }
+    #enjoy .enjoy-content{
+        bottom: 65px;
+    }
+    #enjoy .enjoy-content{
+        padding: 32px 40px 32px 40px;
+    }
+    #enjoy .enjoy-content h2{
+        padding-bottom: 5px;
+    }
+    #enjoy .enjoy-content button{
+        padding: 3px 25px 3px 25px;
+    }
+    #enjoy .enjoy-content button svg{
+        width: 11px;
+        height: 13px;
+    }
+    #project-team .content .button svg{
+        padding-left: 3px;
+        width: 32px;
+    }
+    #project-team .content .button button{
+        padding: 2px 15px 2px 15px;
+    }
+    #profils .avatar-info .profil-logo svg{
+        width: 30px;
+        height: 30px;
+    }
+    #camin .camin-content{
+        padding-top: 130px;
+    }
+    #camin .search-camin svg{
+        width: 10px;
+        height: 13px;
+    }
+    #camin .camin-content .camin-logo {
+        padding-bottom: 90px;
+    }
+    #camin .camin-content .camin-logo svg{
+        width: 30px;
+        height: 30px;
+    }
+}
+@media (max-width: 768px) {
+    header .navbar .logo svg{
+        width: 90px;
+        height: 32px;
+    }
+    header .navbar .nav-content ul{
+        font-size: 0.900vw;
+    }
+    header .navbar .nav-content ul li{
+        margin-right: 28px;
+    }
+    header button svg{
+        width: 8px;
+        height: 10px;
+    }
+    #listen .listen-topic{
+        padding-top: 70px;
+    }
+    #listen .listen-topic p{
+        margin-bottom: 50px;
+    }
+    #listen .listen-topic button svg{
+        width: 20px;
+        height: 18px;
+    }
+    #listen .listen-topic button{
+        padding: 1px 19px 1px 19px;
+    }
+    .listen-cards .listen-card .card-content svg{
+        width: 37px;
+        height: 40px;
+    }
+    #listen .how-it h3{
+        margin-top: 4vh;
+        margin-bottom: 18px;
+    }
+    #listen .listen-cards .listen-card .card-content h6{
+        padding-bottom: 2px;
+        padding-top: 10px;
+    }
+    #listen .listen-cards .listen-card .card-content p{
+        font-size: 1.133vw;
+        line-height: 1.398vw;
+    }
+    #listen .listen-cards .listen-card{
+        padding: 16px 16px 8px 16px;
+    }
+    #listen .listen-cards{
+        padding-bottom: 40px;
+    }
+    #why-love .profil .about-prof{
+        margin-left: 12px;
+    }
+    #why-love .profil p{
+        font-size: 1.033vw;
+    }
+    #graphic{
+        padding-top: 80px;
+    }
+    #graphic .topic p{
+        font-size: 1.233vw;
+    }
+    #speed-up .topic h2{
+        padding-bottom: 49px;
+    }
+    #speed-up .every-card .logo svg{
+        width: 48px;
+        height: 48px;
+    }
+    #speed-up .every-card{
+        padding-left: 20px;
+    }
+    #speed-up .logo-content{
+        padding-left: 12px;
+    }
+    #speed-up .logo-content p{
+        font-size: 0.825vw;
+    }
+    #speed-up .process-cards .process-cards-s{
+        margin-bottom: 50px;
+    }
+    #enjoy .enjoy-content{
+        padding: 13px 20px 13px 20px
+    }
+    #enjoy .enjoy-content p{
+        margin-bottom: 20px;
+    }
+    #enjoy .enjoy-content button svg{
+        width: 9px;
+        height: 9px;
+    }
+    #enjoy .enjoy-content button{
+        line-height: 17px;
+        padding: 3px 18px 3px 18px;
+    }
+    #project-team .content .text{
+        width: 60%;
+    }
+    #project-team .content .text p{
+        font-size: 1.233vw;
+        line-height: 1.450vw;
+        margin-bottom: 0;
+    }
+    #project-team .content .button svg{
+        width: 25px;
+        height: 25px;
+    }
+    #profils .avatar-info .profil-logo svg{
+        width: 23px;
+        height: 23px;
+    }
+    #camin .camin-content{
+        padding-top: 100px;
+    }
+    #camin .camin-content .search-camin input{
+        height: 3.455vh;
+    }
+    #camin .search-camin svg{
+        width: 10px;
+        height: 8px;
+        margin-left: 2px;
+    }
+    #camin .camin-content .search-camin button{
+        height: 3.455vh;
+        display: flex;
+        align-items: center;
+        padding: 1px 21px 1px 21px
+    }
+    #camin .camin-content .camin-logo svg{
+        width: 22px;
+        height: 21px;
+    }
+    #camin .camin-content .camin-logo{
+        padding-bottom: 68px;
+    }
+    #camin .camin-content .search-camin{
+        padding-bottom: 0;
+    }
+    #enjoy .enjoy-content{
+        bottom: 40px;
+    }
+    #camin .camin-content p{
+        font-size: 1.033vw;
+    }
+    footer .content .list li:first-child{
+        font-size: 1.033vw;
+    }
+    footer .content .list li{
+        font-size: 0.825vw;
+        padding-bottom: 5px;
+    }
+}
+@media (max-width: 425px) {
+    header .navbar{
+        display: none;
+    }
+    #listen .listen-topic h2{
+        font-size: 30px;
+    }
+    #listen .listen-topic p{
+        font-size: 10px;
+        line-height: 11px;
+    }
+    #listen .listen-topic button{
+        font-size: 8px;
+    }
+    #listen .how-it h3{
+        font-size: 22px;
+    }
+    #listen .listen-cards{
+        display: flex;
+        flex-direction: column;
+    }
+    #listen .listen-cards .listen-card{
+        width: 95%;
+        margin-bottom: 15px;
+    }
+    #listen .listen-cards .listen-card .card-content{
+        display: flex;
+    }
+    #listen .listen-cards .listen-card .card-content h6{
+        display: none;
+    }
+    #listen .listen-cards .listen-card .card-content p{
+        padding-left: 10px;
+        font-size: 10px;
+        line-height: 11px;
+    }
+    .listen-cards .listen-card .card-content svg{
+        width: 62px;
+        height: 41px;
+    }
+    #why-love .topic h2{
+        font-size: 22px;
+    }
+    #why-love .profils{
+        display: flex;
+        flex-direction: column;
+    }
+    #why-love .profil{
+        max-width: 90%;
+        display: flex;
+        padding-bottom: 14px;
+    }
+    #why-love .profil .exit img{
+        width: 40px;
+    }
+    #why-love .profil .about-prof h6{
+        font-size: 12px;
+        padding-bottom: 3px;
+    }
+    #why-love .profil .about-prof p{
+        font-size: 10px;
+        line-height: 11px;
+    }
+    #why-love .profil p.erit{
+        font-size: 10px;
+        line-height: 11px;
+        padding-left: 9px;
+    }
+    #graphic{
+        padding-top: 50px;
+    }
+    #graphic .topic h2{
+        font-size: 22px;
+    }
+    #graphic .topic p{
+        font-size: 10px;
+        line-height: 11px;
+        max-width: 80%;
+    }
+    .first-swiper .swiper-slide img{
+        width: 23vw;
+    }
+    .first-swiper .swiper-scrollbar{
+        margin-top: 15px;
+        height: 3px;
+    }
+    #speed-up{
+        padding-top: 80px;
+    }
+    #speed-up .topic h2{
+        width: 80%;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    #speed-up .process-cards .process-cards-s{
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }
+    #speed-up .process-cards .process-cards-f{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #speed-up .every-card{
+        width: 100%;
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+    #speed-up .logo-content a{
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+    #speed-up .logo-content p{
+        font-size: 10px;
+        line-height: 11px;
+    }
+    #enjoy{
+        padding-top: 70px;
+    }
+    #enjoy .enjoy-content p{
+        display: none;
+    }
+    #enjoy .enjoy-content{
+        bottom: 15px;
+        left: 20px;
+    }
+    #enjoy .enjoy-content button{
+        font-size: 7px;
+    }
+    #project-team{
+        padding-top: 100px;
+    }
+    #project-team .content .text h2{
+        font-size: 22px;
+    }
+    #project-team .content .text p{
+        font-size: 10px;
+        line-height: 11px;
+    }
+    #project-team .content .text{
+        max-width: 65%;
+    }
+    #project-team .content .button button{
+        font-size: 8px;
+    }
+    #project-team .content .button svg{
+        width: 22px;
+        height: 22px;
+    }
+    #profils .ju-container{
+        margin-left: 10px;
+        margin-right: 10px;
+        max-width: 100%;
+    }
+    #profils .catalog .profil img{
+        width: 22.333vw;
+    }
+    #profils .catalog .profil .avatar-info h6{
+        font-size: 10px;
+    }
+    #profils .catalog .profil .avatar-info p{
+        font-size: 9px;
+        padding-top: 3px;
+    }
+    #profils .catalog .profil .avatar-info{
+        margin-top: -27px;
+        padding-left: 3px;
+        border-radius: 7PX;
+    }
+    #profils .avatar-info .profil-logo svg{
+        width: 18px;
+        height: 23px;
+    }
+    #profils{
+        padding-top: 45px;
+        padding-bottom: 80px;
+    }
+    #camin .camin-content{
+        padding-top: 70px;
+    }
+    #camin .camin-content p{
+        width: 50%;
+        font-size: 10px;
+        line-height: 11px;
+    }
+    #camin .camin-content .search-camin button{
+        padding: 1px 11px 1px 11px;
+    }
+    #camin .camin-content .search-camin{
+        display: flex;
+        flex-direction: column;
+    }
+    #camin .camin-content .search-camin input{
+        height: 5.455vh;
+        width: 105%;
+        margin-bottom: 7px;
+    }
+    #camin .camin-content .search-camin input::placeholder{
+        font-size: 8px;
+    }
+    #camin .camin-content .search-camin button{
+        padding: 1px 11px 1px 11px;
+        font-size: 8px;
+        width: 51%;
+        margin: 0 auto;
+    }
+    #camin .camin-content .camin-logo{
+        padding-bottom: 25px;
+        padding-top: 30px;
+        width: 20%;
+    }
+    footer .content{
+        padding-top: 10px;
+    }
+    footer .content .list li{
+        font-size: 7px;
+        padding-bottom: 8px;
+    }
+    footer .content .list li:first-child{
+        font-size: 8px;
+    }
+    dl, ol, ul{
+        margin-bottom: 0;
+    }
+    footer .under-contetn{
+        font-size: 4px;
+    }
+    .mobile-navbar{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 20px;
+    }
+}
+@media (max-width: 375px) {
+    #listen .listen-topic{
+        max-width: 75%;
+    }
+    #listen .listen-topic h2 {
+        font-size: 34px;
+        line-height: 33px;
+    }
+    #camin .camin-content .search-camin button{
+        width: 60%;
+    }
+    #camin .camin-content .search-camin input {
+        height: 4.455vh;
+        width: 105%;
+    }
+}
